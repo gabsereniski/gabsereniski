@@ -1,4 +1,4 @@
-<img align="right" height="150" width="150" src="https://github.com/gabsereniski/gabsereniski/blob/main/flower_fury_rounded.gif?raw=true?raw=true"  />
+<img align="right" height="200" width="200" src="https://github.com/gabsereniski/gabsereniski/blob/main/flower_fury_rounded.gif?raw=true?raw=true"  />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F34B7D&vCenter=true&width=425&height=30&lines=hey+there%2C+i'm+gabriela.)](https://git.io/typing-svg)
 
