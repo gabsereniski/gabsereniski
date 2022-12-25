@@ -4,7 +4,13 @@
 
 ###
 
-<p align="left">👩‍💻 computer science student<br>🔭 researching signal processing<br>🧵 interested in parallel computing<br>🎈 balloon hunter<br>📽️ film enthusiast</p>
+<p align="left">
+    👩‍💻&nbsp;&nbsp;&nbsp;computer science student<br>
+    🔭&nbsp;&nbsp;&nbsp;researching signal processing<br>
+    🧵&nbsp;&nbsp;&nbsp;interested in parallel computing<br>
+    🎈&nbsp;&nbsp;&nbsp;balloon hunter<br>
+    📽️&nbsp;&nbsp;&nbsp;film enthusiast
+</p>
 
 ###
 
