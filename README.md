@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="center">find me at:</h4>
+<h4 align="center">- find me at -</h4>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h4 align="center">languages and tools:</h4>
+<h4 align="center">- languages and tools -</h4>
 
 ###
 
