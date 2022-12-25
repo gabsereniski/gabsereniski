@@ -77,6 +77,8 @@
 </div>
 
 ###
+
+<!--
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabsereniski/gabsereniski/blob/output/snake-dark.svg">
@@ -84,3 +86,7 @@
   <img src="https://github.com/gabsereniski/gabsereniski/blob/output/snake-light.svg" alt="Snake animation">
 </picture>
 </div>
+-->
+
+![Snake-Light](https://github.com/gabsereniski/gabsereniski/blob/output/snake-dark.svg#gh-dark-mode-only)
+![Snake-Dark](https://github.com/gabsereniski/gabsereniski/blob/output/snake-light.svg#gh-light-mode-only)
