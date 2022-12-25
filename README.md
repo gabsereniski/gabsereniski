@@ -78,7 +78,6 @@
 
 ###
 
-<!----
-<img src="https://raw.githubusercontent.com/gabsereniski/gabsereniski/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gabsereniski/gabsereniski/5b1552b793942b26cfd04ce38b1a3380d9f08082/snake.svg" alt="Snake animation" />
 
-### ---->
+###
