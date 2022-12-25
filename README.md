@@ -78,9 +78,8 @@
 
 ###
 <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabsereniski/gabsereniski/blob/output/snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabsereniski/gabsereniski/blob/output/snake-light.svg">
-      <img alt="snake animation" src="https://github.com/gabsereniski/gabsereniski/blob/output/snake-light.svg">
-    </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabsereniski/gabsereniski/blob/output/snake-dark.svg">
+  <img alt="Snake animation" src="https://github.com/gabsereniski/gabsereniski/blob/output/snake-light.svg">
+</picture>
 </div>
