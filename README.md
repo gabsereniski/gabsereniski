@@ -5,20 +5,20 @@
 ###
 
 <p align="left">
-    👩‍💻&nbsp;&nbsp;&nbsp;computer science student<br>
-    🔭&nbsp;&nbsp;&nbsp;researching signal processing<br>
-    🧵&nbsp;&nbsp;&nbsp;interested in parallel computing<br>
-    🎈&nbsp;&nbsp;&nbsp;balloon hunter<br>
-    📽️&nbsp;&nbsp;&nbsp;film enthusiast
+    👩‍💻&nbsp;&nbsp;&nbsp;computer science student; <br>
+    🔭&nbsp;&nbsp;&nbsp;researching signal processing; <br>
+    🧵&nbsp;&nbsp;&nbsp;interested in parallel computing; <br>
+    🎈&nbsp;&nbsp;&nbsp;balloon hunter; <br>
+    📽️&nbsp;&nbsp;&nbsp;film enthusiast;
 </p>
 
 ###
 
-<h4 align="left">find me at:</h4>
+<h4 align="center">find me at:</h4>
 
 ###
 
-<div align="left">
+<div align="center">
 
  <a href="mailto:gabsereniski@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
@@ -50,11 +50,11 @@
 
 ###
 
-<h4 align="left">languages and tools:</h4>
+<h4 align="center">languages and tools:</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="25" width="37" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="25" width="37" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="25" width="37" alt="python logo"  />
@@ -71,13 +71,15 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=gabsereniski" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=gabsereniski" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/gabsereniski/gabsereniski/5b1552b793942b26cfd04ce38b1a3380d9f08082/snake.svg" alt="Snake animation" />
+<div align="center">
+    <img src="https://github.com/gabsereniski/gabsereniski/blob/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
