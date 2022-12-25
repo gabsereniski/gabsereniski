@@ -81,6 +81,6 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabsereniski/gabsereniski/blob/output/snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabsereniski/gabsereniski/blob/output/snake-light.svg">
-      <img alt="snake animation" src="">
+      <img alt="snake animation" src="https://github.com/gabsereniski/gabsereniski/blob/output/snake-light.svg">
     </picture>
 </div>
