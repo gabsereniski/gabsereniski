@@ -16,12 +16,12 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-light.svg?color_snake=#F34B7D&color_dots=#EBEDF0,#9AE8A8,#40C463,#30A14E,#216E39
-            dist/snake-dark.svg?color_snake=#F34B7D&color_dots=#171A22,#0F4428,#006D32,#27A640,#39D353
+            dist/snake-light.gif?color_snake=#F34B7D&color_dots=#EBEDF0,#9AE8A8,#40C463,#30A14E,#216E39
+            dist/snake-dark.gif?color_snake=#F34B7D&color_dots=#171A22,#0F4428,#006D32,#27A640,#39D353
 
 
       - name: push snake.svg to the output branch
