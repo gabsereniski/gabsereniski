@@ -1,1 +1,78 @@
+<img align="right" height="150" width="150" src="https://github.com/gabsereniski/gabsereniski/blob/main/flower_fury_rounded.gif?raw=true?raw=true"  />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F34B7D&vCenter=true&width=425&height=30&lines=hey+there%2C+i'm+gabriela.)](https://git.io/typing-svg)
+
+###
+
+<p align="left">👩‍💻 computer science student<br>🔭 researching signal processing<br>🧵 interested in parallel computing<br>🎈 balloon hunter<br>📽️ film enthusiast</p>
+
+###
+
+<h4 align="left">find me at:</h4>
+
+###
+
+<div align="left">
+
+ <a href="mailto:gabsereniski@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
+
+  <a href="https://www.linkedin.com/in/gabriela-sereniski-b1989425b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+
+  <a href="https://discordapp.com/users/319678577652269058" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  </a>
+  
+  <a href="https://medium.com/@gabrielasereniski" target="_blank">
+    <img src="https://raw.githubusercontent.com/gabsereniski/gabsereniski/cbd5e3368564307f4a2929cab3bde1e5c8857829/medium.svg" width="37" height="25" alt="medium logo"  />
+  </a>
+  
+  <a href="https://instagram.com/gabsereniski" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  
+ 
+  
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/171692" target="_blank">
+    <img src="https://raw.githubusercontent.com/gabsereniski/gabsereniski/66360813df627e7ea26213aeb6965f0fd631a723/beecrowdlogo.svg" width="37" height="25" alt="hackerrank logo"  />
+  </a>
+
+</div>
+
+###
+
+<h4 align="left">languages and tools:</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="25" width="37" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="25" width="37" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="25" width="37" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" height="25" width="37" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="25" width="37" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" height="25" width="37" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" width="37" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="25" width="37" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="25" width="37" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="25" width="37" alt="photoshop logo"  />
+</div>
+
+###
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=gabsereniski" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=gabsereniski" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<!----
+<img src="https://raw.githubusercontent.com/gabsereniski/gabsereniski/blob/output/snake.svg" alt="Snake animation" />
+
+### ---->
