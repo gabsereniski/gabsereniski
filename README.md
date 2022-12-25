@@ -77,9 +77,10 @@
 </div>
 
 ###
-
 <div align="center">
-    <img src="https://github.com/gabsereniski/gabsereniski/blob/output/snake.svg" alt="Snake animation" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabsereniski/gabsereniski/blob/output/snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabsereniski/gabsereniski/blob/output/snake-light.svg">
+      <img alt="snake animation" src="">
+    </picture>
 </div>
-
-###
