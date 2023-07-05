@@ -9,7 +9,7 @@
     🔭&nbsp;&nbsp;&nbsp;studying audio signal processing; <br>
     🧵&nbsp;&nbsp;&nbsp;interested in parallel computing; <br>
     🎈&nbsp;&nbsp;&nbsp;balloon hunter; <br>
-    :black_nib:&nbsp;&nbsp;&nbsp;stopgap product designer <br>
+    :black_nib:&nbsp;&nbsp;&nbsp;stopgap product designer; <br>
 </p>
 
 ###
