@@ -6,10 +6,9 @@
 
 <p align="left">
     👩‍💻&nbsp;&nbsp;&nbsp;computer science undergraduate student; <br>
-    🔭&nbsp;&nbsp;&nbsp;studying signal processing; <br>
+    🔭&nbsp;&nbsp;&nbsp;studying audio signal processing; <br>
     🧵&nbsp;&nbsp;&nbsp;interested in parallel computing; <br>
     🎈&nbsp;&nbsp;&nbsp;balloon hunter; <br>
-    🥁&nbsp;&nbsp;&nbsp;learning to play the surdo;
 </p>
 
 ###
