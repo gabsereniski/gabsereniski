@@ -50,6 +50,7 @@
 
 ###
 
+<!--
 <h4 align="center">- languages and tools -</h4>
 
 ###
@@ -68,7 +69,7 @@
 </div>
 
 ###
-
+-->
 ###
 
 <div align="center">
